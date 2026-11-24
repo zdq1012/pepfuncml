@@ -194,3 +194,11 @@ If you use this repository in academic work, cite the corresponding paper or pro
 
 All Python scripts in this repository now include English module descriptions, function docstrings, and key inline comments to improve readability for external reviewers and GitHub visitors.
 
+## License
+
+This project is licensed under the MIT License.
+
+Copyright (c) 2026 zdq1012
+
+See the [LICENSE](LICENSE) file for the full license text.
+
