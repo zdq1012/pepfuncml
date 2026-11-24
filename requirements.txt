@@ -1,21 +1,21 @@
 # Core data processing
-numpy
-pandas
-joblib
+numpy==2.3.5
+pandas==2.3.3
+joblib==1.5.2
 
 # Visualization
-matplotlib
-seaborn
+matplotlib==3.10.7
+seaborn==0.13.2
 
 # Deep learning and protein language model inference
-torch
-transformers
+torch==2.9.1
+transformers==4.57.1
 
 # Classical machine learning and optimization
-scikit-learn
-umap-learn
-scikit-optimize
-xgboost
+scikit-learn==1.8.0
+umap-learn==0.5.7
+scikit-optimize==0.10.2
+xgboost==3.0.5
 
 # Sequence similarity
-python-Levenshtein
+python-Levenshtein==0.27.2
