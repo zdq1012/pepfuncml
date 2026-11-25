@@ -1,0 +1,38 @@
+########################################
+# Program: needle
+# Rundate: Wed 12 Feb 2025 17:35:33
+# Commandline: needle
+#    -asequence temp1.fasta
+#    -bsequence temp2.fasta
+#    -gapopen 10
+#    -gapextend 0.5
+#    -outfile temp_aligned.needle
+# Align_format: srspair
+# Report_file: temp_aligned.needle
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: XP_026771581.211211
+# 2: XP_026771581.215516
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 16
+# Identity:       9/16 (56.2%)
+# Similarity:     9/16 (56.2%)
+# Gaps:           7/16 (43.8%)
+# Score: 56.0
+# 
+#
+#=======================================
+
+XP_026771581.      1 -----MCRDLRMCHPE     11
+                          |||||||||  
+XP_026771581.      1 TNPARMCRDLRMCH--     14
+
+
+#---------------------------------------
+#---------------------------------------
